@@ -1,0 +1,5 @@
+D:\Projetos\FAAPI\FFAPI.Model\bin\Debug\FFAPI.Model.dll
+D:\Projetos\FAAPI\FFAPI.Model\bin\Debug\FFAPI.Model.pdb
+D:\Projetos\FAAPI\FFAPI.Model\obj\Debug\FAAPI.Model.csprojResolveAssemblyReference.cache
+D:\Projetos\FAAPI\FFAPI.Model\obj\Debug\FFAPI.Model.dll
+D:\Projetos\FAAPI\FFAPI.Model\obj\Debug\FFAPI.Model.pdb

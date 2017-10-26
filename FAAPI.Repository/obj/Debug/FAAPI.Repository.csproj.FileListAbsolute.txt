@@ -1,0 +1,17 @@
+D:\Projetos\FAAPI\FAAPI.Repository\obj\Debug\FAAPI.Repository.csprojResolveAssemblyReference.cache
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\FAAPI.Repository.dll
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\FAAPI.Repository.pdb
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dapper.dll
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dapper.Fluent.dll
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dapper.FluentMap.dll
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dapper.FluentMap.Dommel.dll
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dapper.Mapper.dll
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dommel.dll
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\FFAPI.Model.dll
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\FFAPI.Model.pdb
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dapper.xml
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dapper.FluentMap.xml
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dapper.FluentMap.Dommel.xml
+D:\Projetos\FAAPI\FAAPI.Repository\bin\Debug\Dommel.xml
+D:\Projetos\FAAPI\FAAPI.Repository\obj\Debug\FAAPI.Repository.dll
+D:\Projetos\FAAPI\FAAPI.Repository\obj\Debug\FAAPI.Repository.pdb
